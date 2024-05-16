@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/vertical-low-angle-shot-big-ben-london-blue-sky_181624-10493.jpg?t=st=1715233419~exp=1715237019~hmac=a73ca1e2c30b8300d3843263d19d02d3f9aebe453f92121759e90c8b98a8f3a1&w=360");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.main-heading{
+    font-family: "lobster";
+}
+.tourism-card{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 5px;
+}
+.paragraph{
+    font-family: "roboto";
+}
+.button{
+    color: white;
+    background-color: #25b1cc;
+    height: 40px;
+    width: 140px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.favourite-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/vertical-low-angle-shot-big-ben-london-blue-sky_181624-10493.jpg?t=st=1715233419~exp=1715237019~hmac=a73ca1e2c30b8300d3843263d19d02d3f9aebe453f92121759e90c8b98a8f3a1&w=360");
+    height: 100vh;
+    background-size: cover;
+}
+.favourite-bg-heading{
+    color: aliceblue;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+.favourite-card-container{
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+}
+.card-heading{
+    font-family: "roboto";
+    font-size: 23px;
+    font-weight:bold;
+}
+.card-description{
+    font-family: "roboto";
+    font-size: 13px;
+}
+.card-image{
+    height: 80px;
+    width: 100px;
+}
+
+.background-img{
+    background-image: url("https://img.freepik.com/free-vector/realistic-galaxy-background_52683-12122.jpg?t=st=1715833760~exp=1715837360~hmac=f339d47fc28fe90929f89e45a356bcf0a0d4d9e896bbcf5e6917b257effc04e4&w=826") ;
+    height: 100vh;
+    background-size: cover;
+}
+.background-heading{
+    font-size: 28px;
+    color: azure;
+    font-family: "roboto";
+    padding: 24px;
+}
+.detailed-view-card{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 24px;
+}
+.description-heading{
+    font-family: "lobster";
+    font-size: 23px;
+    font-weight: bold;
+}
+.description-para{
+    font-family: "roboto";
+    font-size: 13px;
+}
+.detailed-view-card-text{
+    padding: 16px;
+}
